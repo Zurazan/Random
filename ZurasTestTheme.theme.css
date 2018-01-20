@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.0"}*//{}
+//META{"name":"Zura's Test Theme V2 Offline","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.0"}*//{}
 
 .channels-3g2vYe {
     background-color: rgba(0,0,0,0);
@@ -61,7 +61,7 @@
 .app,
 .callout-backdrop,#pubs-container:before,.bda-backdrop  {
 	background-image: url("https://wallpaperscraft.com/image/anime_girl_brunette_dark_shining_eyes_13328_3840x2160.jpg");
-	background-size: cover !important;
+	background-size: Cover !important;
 	background-position: center !important;
 }
 
@@ -1987,7 +1987,7 @@ a {
     border-radius: 5px;
     box-shadow: none;
     width: 390px;
-    background: url(https://wallpaperscraft.com/image/madoka_kyouko_anime_girl_92059_1080x1920.jpg) 50% 50%/cover !important;
+    background: url(https://cdn.wallpapersafari.com/79/30/i3dTVA.jpg) 50% 50%/cover !important;
 }
 .bodyTitle-yehI7c {
     color: #BA55D3;
@@ -2313,8 +2313,18 @@ a {
     border: none;
 }
 
-[class*="theme-"] .userPopout-4pfA0d .avatar-1BXaQj.popout-UKvsJt [class*="status"],
-[class*="theme-"] .root-2sNHUF [class*="avatar-"] [class*="status"] {
+[class*="theme-"] .userPopout-4pfA0d .avatar-1BXaQj.popout-UKvsJt [class*="status"]{
+	border-width: var(--rs-popout-width) !important;
+    top: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
+    right: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
+    bottom: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
+    left: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
+	padding: var(--rs-popout-spacing) !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	box-sizing: content-box;
+}
+[class*="theme-"] .root-2sNHUF [class*="avatar-"] [class*="status"]{
 	border-width: var(--rs-popout-width) !important;
     top: calc(-51*var(--rs-popout-spacing) + -51*var(--rs-popout-width)) !important;
     right: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
@@ -2325,7 +2335,6 @@ a {
 	box-shadow: none !important;
 	box-sizing: content-box;
 }
-
 [class*="theme-"] .root-2sNHUF [class*="avatar-"] [class*="status"] {
     border-width: var(--rs-profile-width) !important;
     padding: var(--rs-profile-spacing) !important;
