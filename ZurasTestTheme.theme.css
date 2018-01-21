@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme V2","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.0"}*//{}
+//META{"name":"Zura's Test Theme V2 Offline","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.0"}*//{}
 
 .channels-3g2vYe {
     background-color: rgba(0,0,0,0);
@@ -60,9 +60,17 @@
 }
 .app,
 .callout-backdrop,#pubs-container:before,.bda-backdrop  {
-	background-image: url("https://wallpaperscraft.com/image/anime_girl_brunette_dark_shining_eyes_13328_3840x2160.jpg");
-	background-size: Cover !important;
-	background-position: center !important;
+    background-image: url("https://wallpaperscraft.com/image/anime_girl_brunette_dark_shining_eyes_13328_3840x2160.jpg");
+    background-size: cover !important;
+    background-position: center !important;
+}
+/* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+    background: transparent !important;
+}
+/* optionally adjust background brightness (0: original image, 1: black) */
+  .layers-20RVFW {
+    background: rgba(0,0,0, 0.3) !important;
 }
 
 
