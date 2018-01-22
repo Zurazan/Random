@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.5"}*//{}
+//META{"name":"Zura's Test Theme Offline","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.5"}*//{}
 
 .channels-3g2vYe {
     background-color: rgba(0,0,0,0);
@@ -324,7 +324,8 @@ span:not(.spinner-item){
 }
 .form.deprecated .control-group label,
 #instant-invite-modal-advanced .form-inner .help-text {
-    color: black;
+    color: #BA55D3
+    ;
 }
 .form.deprecated .form-inner,
 #instant-invite-modal-advanced .form-actions {
@@ -2413,7 +2414,7 @@ a {
 }
 /* TITLE BAR */
 :root {
-    --i-dtl-bgcolor: #282b30;
+    --i-dtl-bgcolor: black; /* #282b30 */
     --i-dtl-logoimg: url(https://discordapp.com/assets/93608abbd20d90c13004925014a9fd01.svg);
     --i-dtl-logosize: 60px 19px;
     --i-dtl-logoopacity: .6;
