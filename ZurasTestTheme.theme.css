@@ -2304,7 +2304,7 @@ a {
 
 [class*="theme-"] .userPopout-4pfA0d .avatar-1BXaQj.popout-UKvsJt [class*="status"]{
 	border-width: var(--rs-popout-width) !important;
-    top: calc(-51*var(--rs-popout-spacing) + -51*var(--rs-popout-width)) !important;
+    top: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
     right: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
     bottom: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
     left: calc(-1*var(--rs-popout-spacing) + -1*var(--rs-popout-width)) !important;
