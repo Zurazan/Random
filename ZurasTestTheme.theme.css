@@ -324,7 +324,7 @@ span:not(.spinner-item){
 }
 .form.deprecated .control-group label,
 #instant-invite-modal-advanced .form-inner .help-text {
-    color: #BA55D3;
+    color: black;
 }
 .form.deprecated .form-inner,
 #instant-invite-modal-advanced .form-actions {
@@ -1074,14 +1074,14 @@ a {
     width: 40px;
 }
 .create-guild-container.deprecated .create-or-join .form-inner {
-    background-color: black;
+    background-color: white;
     background-image: none;
 }
 .create-guild-container.deprecated .action:hover.join .btn {
     background-color: black!important;
 }
 .create-guild-container.deprecated .action {
-    background: black;
+    background: White;
 }
 .create-guild-container.deprecated .action:hover.create .btn {
     background-color: black;
@@ -1094,7 +1094,7 @@ a {
     text-transform: capitalize;
 }
 .create-guild-container.deprecated .action .action-body {
-    color: white;
+    color: black;
 }
 .create-guild-container.deprecated .create-or-join .actions .or {
     background-image: url(/assets/b9cf5548cc5a23a6943f194a0ace88f8.svg);
@@ -1105,16 +1105,16 @@ a {
 }
 .guilds-wrapper .guilds-add:hover {
     border: 2px solid #BA55D3;
-    color: white;
+    color: black;
     font-size: 30px;
 }
 ::-webkit-input-placeholder {
-  color: white!important;
+  color: black!important;
 }
 
 .tooltip.tooltip-red {
     background-color: rgba(7,6,5,0.5);
-    color: white;
+    color: black;
     animation: fadeIn .7s ease;
 }
 .tooltip.tooltip-black {
@@ -1405,7 +1405,7 @@ a {
 .form.deprecated .control-group input[type=email], .form.deprecated .control-group input[type=number], .form.deprecated .control-group input[type=password], .form.deprecated .control-group input[type=text], .form.deprecated .control-group textarea {
     border: none;
     border-bottom: 1px solid transparent;
-    color: white
+    color: #BA55D3
 }
 .need-help-modal.deprecated .header input[type=text] {
     background-color: black;
