@@ -58,12 +58,6 @@
 .theme-dark .ui-standard-sidebar-view {
     background: transparent;
 }
-/* .app,
-.callout-backdrop,#pubs-container:before,.bda-backdrop  {
-    background-image: url("https://wallpaperscraft.com/image/anime_girl_brunette_dark_shining_eyes_13328_3840x2160.jpg");
-    background-size: cover !important;
-    background-position: center !important;
-} */
 /* fix not having a background image anymore */
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
     background: transparent !important;
@@ -1991,12 +1985,6 @@ a {
     color: rgb(255, 255, 255);
     content: "";
 }
-/* .userPopout-4pfA0d {
-    border-radius: 5px;
-    box-shadow: none;
-    width: 390px;
-    background: url(https://cdn.wallpapersafari.com/79/30/i3dTVA.jpg) 50% 50%/cover !important;
-} */
 .bodyTitle-yehI7c {
     color: #BA55D3;
     text-transform: capitalize;
@@ -2027,13 +2015,6 @@ a {
     position: relative;
     top: 93px;
 }
-/* .root-2sNHUF {
-    border-radius: 0px;
-    overflow: hidden;
-    position: relative;
-    width: 600px;
-    background: url(https://wallpaperscraft.com/image/anime_girl_brunette_dark_shining_eyes_13328_3840x2160.jpg) 50% 50%/cover !important;
-} */
 .profile-3z9uol {
     height: 200px;
     width: 200px;
