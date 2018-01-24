@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"3.0"}*//{}
+//META{"name":"Zura's Test Theme Offline","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.5"}*//{}
 
  /* fix not having a background image anymore */
  .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
@@ -1944,7 +1944,7 @@
       border: 1px solid #BA55D3;
   }
   .mask-2vyqAW  {
-      border-radius: 0;
+      border-radius: 1;
       -webkit-mask: none;
       mask: none;
   }
