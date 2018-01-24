@@ -63,10 +63,6 @@
   .theme-dark .ui-standard-sidebar-view {
       background: transparent;
   }
-  .app,
-  
-  
-  
   .chat .divider>div,.theme-dark .friends-table .messages .divider:before, .theme-dark .messages-wrapper .messages .divider:before {
       background: transparent !important;
   }
@@ -1750,7 +1746,7 @@
   }
   .headerPlaying-2eYqm9,
   .topSectionPlaying-3jAH9b {
-      background: Transparent(229,59,10,0.6);
+      background: rgba(0, 0, 0, 0.4) !important;
   }
   .avatar-1BXaQj.profile-3z9uol.avatar-4g_GO6 .statusProfile-29OBzn {
       width: 143px;
