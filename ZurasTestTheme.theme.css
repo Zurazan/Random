@@ -109,7 +109,7 @@
       border-left: 1px solid #BA55D3;
   }
   .theme-dark .message-group h2 strong:after {
-     content: "?";
+     content: "";
   }
   .theme-dark .mention {
       background-color: rgba(0,0,0,0.1) !important;
@@ -120,10 +120,10 @@
       transition: border .3s ease-in-out, color .6s ease-in-out;
   }
   .channel-members .member .member-username-inner:after {
-      content: "?";
+      content: "";
   }
   .theme-dark .mention:after {
-      content: "?";
+      content: "";
   }
   .theme-dark .mention:hover {
       border: 1px solid #BA55D3 !important;
@@ -942,7 +942,7 @@
   }
   .guilds-wrapper .guilds-error:before {
       font-size: 20px;
-      content: "?";
+      content: "";
       animation: color 2s linear infinite;
       position: relative;
       bottom: 2px;
@@ -1202,10 +1202,10 @@
       text-align: center;
   }
   .accountDetails-15i-_e .discriminator:after {
-      content: "?";
+      content: "";
   }
   .accountDetails-15i-_e .username:after {
-      content: "?";
+      content: "";
   }
   /* Need Help Section */
   .need-help-modal.deprecated .header {
@@ -1706,7 +1706,7 @@
        left: 4px;
    }
    .headerTag-3zin_i .username:after {
-      content: "?";
+      content: "";
   }
    .role-3rahR_ .roleName-DUQZ9m:after {
       font-size: 12px;
@@ -1715,7 +1715,7 @@
        color: white !important;
        position: relative;
        left: 0px;
-       content: "?";
+       content: "";
    }
    .assetsSmallImage-3WEvRP {
       border-radius: 50%;
@@ -1725,7 +1725,7 @@
   }
   .headerName-2N8Pdz:after, .headerTagUsernameNoNickname-1gGsAP:after {
       color: rgb(255, 255, 255);
-      content: "?";
+      content: "";
   }
 
   .bodyTitle-yehI7c {
@@ -1775,7 +1775,7 @@
       font-size: 20px;
   }
   .discriminator-3KVlLu:after {
-      content: "?";
+      content: "";
   }
   .userInfoSectionHeader-pmdPGs {
       color: white;
@@ -1805,14 +1805,14 @@
       overflow: hidden;
   }
   .username-24t9uh:after {
-      content: "?";
+      content: "";
   }
   .avatarHintInner-1JYcVr {
       font-size: 0px;
   }
   .avatarHintInner-1JYcVr:before {
       font-size: 80px;
-      content: "?";
+      content: "";
       position: absolute;
       left: 97px;
   }
@@ -1826,7 +1826,7 @@
       transition: border .4s ease;
   }
   .buttonBrandInverted-VFL7Yc:after {
-      content: "?";
+      content: "";
   }
   .buttonBrandInverted-VFL7Yc:hover {
       border: 1px solid black;
@@ -1837,7 +1837,7 @@
      top: 28px;
   }
   .root-2sNHUF .buttonGreenFilled-6QHNrw:after {
-     content: "?";
+     content: "";
   }
   .profileBadge-kI8nxa {
       background-position: 50%;
@@ -1897,7 +1897,7 @@
       color: white;
   }
   .connectedAccountName-3EFj01:after {
-      content: "?";
+      content: "";
   }
   .tab-bar.tabBar-2z50ux .tabBarItem-1Lg555:hover {
       border-bottom-color: silver;
@@ -1921,10 +1921,10 @@
       color: #BA55D3;
   }
   .listName-1Xr1Jk .username:after {
-      content: "?";
+      content: "";
   }
   .marginLeft8-34JoM2:after {
-      content: "?";
+      content: "";
   }
   .listAvatar-MpHQ5z .status-3jUEha {
       height: 5px;
@@ -1932,7 +1932,7 @@
       border-radius: 0px;
   }
   .guildNick-1oZKE3:after {
-      content: "?";
+      content: "";
   }
   .theme-dark .chat .welcome-message a,
   .chat .welcome-message h1 {
