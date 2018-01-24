@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme Offline","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.5"}*//{}
+//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"3.0"}*//{}
   /* fix not having a background image anymore */
   .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
     background: transparent !important;
@@ -698,10 +698,10 @@
   .theme-dark .user-settings-games .now-playing .overlay-status-text, 
   .theme-light .user-settings-games .now-playing .last-played, 
   .theme-light .user-settings-games .now-playing .overlay-status-text {
-      color: #FAA289;
+      color: #FAA289; /* #FAA289 */
   }
   a {
-      color: #F7643B;
+      color: #F7643B; /* #F7643B */
   }
   #bd-settingspane-container .ui-switch-item .style-description {
       color: #BA55D3;
@@ -1750,7 +1750,7 @@
   }
   .headerPlaying-2eYqm9,
   .topSectionPlaying-3jAH9b {
-      background: rgba(229,59,10,0.6);
+      background: Transparent(229,59,10,0.6);
   }
   .avatar-1BXaQj.profile-3z9uol.avatar-4g_GO6 .statusProfile-29OBzn {
       width: 143px;
