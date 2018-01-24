@@ -1,4 +1,4 @@
-//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"3.0"}*//{}
+//META{"name":"Zura's Test Theme","description":"This theme is created from small bits of my favorite themes and altered into 1 simple looking theme..","author":"Zurazan","version":"2.6"}*//{}
   /* fix not having a background image anymore */
   .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
     background: transparent !important;
@@ -914,13 +914,13 @@
       color: #BA55D3;
   }
   .theme-dark .message-group .edit-message .edit-operation,.theme-dark .message-group .comment .edited {
-      color: white;
+      color: black;
   }
   .guilds-wrapper .guilds .guild .guild-inner a {
       color: rgb(255, 255, 255);
       height: 50px;
       border-radius: 50px;
-      background-color: black;
+      background-color: transparent;
       width: 50px;
       border: 1px solid transparent;
       transition: border .4s ease;
@@ -1984,7 +1984,7 @@
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--fri.react-datepicker__day--today:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sat.react-datepicker__day--today:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sun.react-datepicker__day--today:hover {
-      background-color: #EB633C;
+      background-color: #BA55D3; /* #EE7755 */
       border: 1px solid rgba(255,255,255,0.4);
       color: white;
   }
@@ -2006,7 +2006,7 @@
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--fri:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sat.react-datepicker__day--weekend:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sun.react-datepicker__day--weekend:hover {
-      background: #EE7755;
+      background: #BA55D3; /* #EE7755 */
   }
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__header .react-datepicker__day-names .react-datepicker__day-name {
      color: white;
@@ -2034,7 +2034,7 @@
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--fri.react-datepicker__day--outside-month:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sat.react-datepicker__day--weekend.react-datepicker__day--outside-month:hover,
   .theme-light.search-popout .date-picker .calendarPicker-16Q6sl .react-datepicker .react-datepicker__month-container .react-datepicker__month .react-datepicker__week .react-datepicker__day.react-datepicker__day--sun.react-datepicker__day--weekend.react-datepicker__day--outside-month:hover {
-      background: #B72F08;
+      background: #BA55D3; /* #B72F08 */
   }
   .botTagRegular-288-ZL.botTag-1OwMgs {
      background: black;
@@ -2042,15 +2042,15 @@
   }
   /* Context Menu New Stuff */
   .theme-dark .itemSubMenu-3ZgIw- {
-     background: #B72F08;
-     border: 0.3px solid white;
+     background: #BA55D3; /* #B72F08 */
+     border: 0.3px solid black;
   }
   .theme-dark .itemSubMenu-3ZgIw-:hover{
-     background: #EE7755;
+     background: #EE7755; /* #EE7755 */
      color: white !important;
   }
   .theme-dark .item-1XYaYf:hover {
-     background: #EE7755;
+     background: #EE7755; /* #EE7755 */
      color: white !important;
   }
   .theme-dark .contextMenu-uoJTbz {
