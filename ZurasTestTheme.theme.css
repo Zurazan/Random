@@ -20,7 +20,7 @@
       background: rgba(0,0,0,0.26);
   }
   
-  .guilds-wrapper {
+  .guilds-wrapper .guilds-add {
       background-color: transparent;
   }
   .theme-dark .chat form .typing {
