@@ -2571,7 +2571,7 @@
 }
 /* TITLE BAR */
 :root {
-    --i-dtl-bgcolor: transparent; /* #282b30 */
+    --i-dtl-bgcolor: #000000; /* #282b30 */
     --i-dtl-logoimg: url(https://discordapp.com/assets/93608abbd20d90c13004925014a9fd01.svg);
     --i-dtl-logosize: 60px 19px;
     --i-dtl-logoopacity: .6;
