@@ -10,8 +10,11 @@
   .channels-3g2vYe {
       background-color: rgba(0,0,0,0);
   }
-  .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+  .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa, .colorDefaultText-2v6rRX, .colorDefaultVoice-1x4dEl, .colorHoveredText-1CsxK1, .colorHoveredVoice-1P3kui, .colorLockedText-2onHWv, .colorLockedVoice-2VCSgk, .colorSelectedText-3YhFC6, .colorSelectedVoice-ieXC3Z, .colorUnreadText-1KwCnP, .colorUnreadVoice-1Ztv9I {
       color: #d812c9;
+  }
+  .nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH, .colorUnreadText-1KwCnP, .colorUnreadVoice-1Ztv9I {
+      color: #ef94e8;
   }
   .container-RYiLUQ {
       background-color:  transparent;
