@@ -25,16 +25,18 @@
   .theme-dark .layer, .theme-dark .layers {
       background: rgba(0,0,0,0.26);
   }
-  
   .guilds-wrapper, .guilds-add {
-    background: transparent;
-    border: 1px dashed #BA55D3;
-    color: #BA55D3;
-    font-size: 30px;
-    transition: border .23s ease;
-    width: 100%;
-    height: 40px;
-    width: 40px;
+      background: transparent;
+      border: 1px dashed #BA55D3;
+      color: #BA55D3;
+      font-size: 30px;
+      transition: border .23s ease;
+      width: 100%;
+      height: 40px;
+      width: 40px;
+  }
+  .theme-dark .itemDefault-3NDwnY, .theme-dark .itemHover-3rojsB {
+          color: #d812c9;
   }
   .theme-dark .chat form .typing {
       background-color: transparent;
