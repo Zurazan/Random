@@ -60,7 +60,7 @@
   .theme-dark #friends {
       background-color: transparent;
   }
-  .theme-dark .headerBar-cxbhPD {
+  .theme-dark Bar-cxbhPD {
       background: transparent;
   }
   .theme-dark .ui-standard-sidebar-view .content-region {
@@ -1148,6 +1148,13 @@
   }
   .header-2Lg0Oe {
       padding: 65px;
+      background: url("https://cdn.wallpapersafari.com/79/30/i3dTVA.jpg") 50% 50%/cover !important;
+  }
+  .root-2sNHUF {
+      border-radius: 0px;
+      overflow: hidden;
+      position: relative;
+      width: 600px;
       background: url("https://cdn.wallpapersafari.com/79/30/i3dTVA.jpg") 50% 50%/cover !important;
   }
   .nameTag-2n-N0D {
