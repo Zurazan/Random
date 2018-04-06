@@ -33,7 +33,7 @@
   }
   .guilds-wrapper, .guilds-add {
       background: transparent;
-      border: 1px dashed #BA55D3;
+      border: 1px dashed transparent;
       color: rgb(83, 85, 89);
       font-size: 30px;
       transition: border .0s ease-in-out;
