@@ -33,7 +33,10 @@
   }
   .guilds-wrapper, .guilds-add {
       background: transparent;
-      color: #BA55D3;
+      border: 1px dashed #BA55D3;
+      color: rgb(83, 85, 89);
+      font-size: 30px;
+      transition: border .0s ease-in-out;
   }
   .theme-dark .itemDefault-3NDwnY, .theme-dark .itemHover-3rojsB {
           color: #75166e;
